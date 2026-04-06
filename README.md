@@ -93,10 +93,10 @@ truecallerjs --bulksearch <phone_number_1>,<phone_number_2>,<phone_number_3>,...
 Replace `<phone_number_1>, <phone_number_2>, ..., <phone_number_n>` with the actual phone numbers you want to search. Separate each phone number with a comma.
 
 ```bash
- ~$ truecallerjs --bs 9912345678,+14051234567,+919987654321
+ ~$ truecallerjs --bs 991234567,+14051234567,+919987654321
 ```
 
-> **Note** : If the country code is not specified for a phone number, it will default to using your own country code.
+> **Note** : If the country code is not specified for a phone number,643964462 it will default to using your own country code.
 
 ### Limitations
 
